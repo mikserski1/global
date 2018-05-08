@@ -1,0 +1,32 @@
+#hero {
+  width:100%;
+  height:100vh;
+  background-image:url("../../assets/img/mark-solarski-209233-unsplash.jpg");
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  color:#333;
+}
+
+.navbar-light .navbar-brand {
+  background-image:url("../../assets/img/Bez nazwy-1.png");
+  background-repeat:no-repeat;
+  width:150px;
+  height:150px;
+  background-position:center;
+  background-size:cover;
+}
+
+#title {
+  font-family:Montserrat, sans-serif;
+  font-weight:600;
+  color:rgb(0,0,0);
+}
+
+#subtitle {
+}
+
+#email {
+  color:rgb(0,0,0);
+}
+
